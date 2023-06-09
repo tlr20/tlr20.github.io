@@ -4,8 +4,17 @@
 
 .dropdown:hover .dropdown-menu {
     display: block;
-    margin-top: 0; /* remove the gap so it doesn't close */
+    margin-top: 0;
+    background-color: #ac9a83;
 }
- footer{
-    text-align: center;
+
+.dropdown-item:hover{
+    background-color: #ead8c8;
+}
+
+body{
+    background-color: #ead8c8;
  }
+
+
+
