@@ -1,0 +1,15 @@
+.card {
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+    border-radius: 0.5rem;
+    background-color: #AC9A83;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+    border: 1px solid transparent;
+  }
+
+  .btn {
+    background-color: #58682a;
+    color:antiquewhite
+  }
+  
