@@ -34,7 +34,7 @@
   }
   
   .title {
-    color: #543D31;
+    color: #291e18;
     font-size: 1.125rem;
     line-height: 1.75rem;
     font-weight: 600;
@@ -42,13 +42,13 @@
   
   .desc {
     margin-top: 0.5rem;
-    color: #7a5947;
+    color: #3a2a22;
     font-size: 1.15rem;
     line-height: 1.25rem;
   }
 
   .points{
-    color: #7a5947;
+    color: #3a2a22;
     font-size: 1.0rem;
   }
   
