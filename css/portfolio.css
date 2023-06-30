@@ -20,4 +20,8 @@
   .card-text{
     color: #7a5947;
   }
+
+  .card{
+    height: 600px;
+  }
   
